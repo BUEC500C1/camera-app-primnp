@@ -13,10 +13,8 @@ expo init [name]
 
 <p align="center">
 Figure 1. Set up expo CLI
-</ br>
-<img src="/Images/init.png" width="65%" />
-< /br>
-Note: in the image above, I did have to run *npm install -g expo-cli* again to get the latest version of expo-cli
+<br><img src="/Images/init.png" width="65%" />
+<br>Note: in the image above, I did have to run *npm install -g expo-cli* again to get the latest version of expo-cli
 </p>
 
 
@@ -25,11 +23,10 @@ Note: in the image above, I did have to run *npm install -g expo-cli* again to g
 2. Run Hello applications on emulator and your phone. It will be great to run it on two phones if you can (iOS and Android)
 
 <p align="center">
-<p><b>iOS</b></p>
-Figure 2. Hello World Application on Emulator
-<img src="/Images/hello_iossim.png" width="45%" />
-
-
-Figure 3. Hello World Application on iPhone
-<img src="/Images/hello_iphone.PNG" width="45%" />
+<br><b>iOS</b></p>
+<br>Figure 2. Hello World Application on Emulator
+<br><img src="/Images/hello_iossim.png" width="35%" />
+<br>
+<br>Figure 3. Hello World Application on iPhone
+<br><img src="/Images/hello_iphone.PNG" width="35%" />
 </p>
