@@ -30,7 +30,7 @@ npm run ios or npm run android
  <b>iOS</b>
 </p>
 
-| Hello World Application on iOS Simulator| Hello World Application on iPhone | 
+| Hello World Application on iOS Simulator| Hello World Application on iPhone (Expo Go) | 
 |:---:|:---:|
 | <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> |
 
