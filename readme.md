@@ -18,12 +18,13 @@ Figure 1. Set up expo CLI
 </p>
 
 
+
 **Step 2:  Go through REACT native Tutorial**
 1. Build Hello Applications (completed; App.js)
 2. Run Hello applications on emulator and your phone. It will be great to run it on two phones if you can (iOS and Android)
 
 <p align="center">
-<br><b>iOS</b></p>
+<b>iOS</b>
 <br>Figure 2. Hello World Application on Emulator
 <br><img src="/Images/hello_iossim.png" width="35%" />
 <br>
