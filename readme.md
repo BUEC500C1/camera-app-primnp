@@ -31,4 +31,16 @@ npm run ios or npm run android
 |:----:|:---:|:---:|
 | <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> | <img src="/Images/hello_pixel.png" width="70%" /> |
 
+---
+## Due 03/28/21
+**Step 3:  Develop use case to display a map.  [react-native-maps](https://github.com/react-native-maps/react-native-maps)**
+
+**Step 4:  Develop use case to take a picture  [react-native-camera](https://github.com/react-native-camera/react-native-camera)**
+
+---
+## Due 03/30/2021
+**Step 5:  Setup your Firebase [react-native-firebase](https://github.com/invertase/react-native-firebase).  Setup authentication, database, and storage**
+
+**Step 6:  Store cloud data in the cloud and display as list on the phone**
+
 
