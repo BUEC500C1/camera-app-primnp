@@ -10,11 +10,13 @@ Please note:  If you have an iOS device, you need a Mac computer.  If you don’
 ```
 expo init [name]
 ```
+
 <p align="center">
 Figure 1. Set up expo CLI
 <img src="/Images/init.png" width="65%" />
-</p>
 Note: in the image above, I did have to run *npm install -g expo-cli* again to get the latest version of expo-cli
+</p>
+
 
 **Step 2:  Go through REACT native Tutorial**
 1. Build Hello Applications (completed; App.js)
@@ -24,6 +26,7 @@ Note: in the image above, I did have to run *npm install -g expo-cli* again to g
 <p><b>iOS</b></p>
 Figure 2. Hello World Application on Emulator
 <img src="/Images/hello_iossim.png" width="65%" />
+
 
 Figure 3. Hello World Application on iPhone
 <img src="/Images/hello_iphone.png" width="65%" />
