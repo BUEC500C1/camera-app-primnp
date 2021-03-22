@@ -14,7 +14,7 @@ expo init [name]
 <p align="center">
 Figure 1. Set up expo CLI
 <br><img src="/Images/init.png" width="65%" />
-<br>Note: in the image above, I did have to run <b>npm install -g expo-cli<b> again to get the latest version of expo-cli
+<br>Note: in the image above, I did have to run <b>npm install -g expo-cli</b> again to get the latest version of expo-cli
 </p>
 <br />
 <br />
@@ -25,8 +25,9 @@ Figure 1. Set up expo CLI
 
 <p align="center">
 <b>iOS</b>
-</p>
  <p float="left">
-  <img src="/Images/hello_iossim.png" width="35%" />
-  <img src="/Images/hello_iphone.PNG" width="35%" />
- </p>
+ <img src="/Images/hello_iossim.png" width="35%" />
+ <img src="/Images/hello_iphone.PNG" width="35%" />
+</p>
+
+</p>
