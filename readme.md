@@ -29,6 +29,6 @@ Figure 1. Set up expo CLI
 
 | Hello World Application on iOS Simulator| Hello World Application on iPhone | 
 |:---:|:---:|
-| <img src="/Images/hello_iossim.png" width="50%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> |
+| <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> |
 
 
