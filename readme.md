@@ -13,7 +13,9 @@ expo init [name]
 
 <p align="center">
 Figure 1. Set up expo CLI
+</ br>
 <img src="/Images/init.png" width="65%" />
+< /br>
 Note: in the image above, I did have to run *npm install -g expo-cli* again to get the latest version of expo-cli
 </p>
 
@@ -25,9 +27,9 @@ Note: in the image above, I did have to run *npm install -g expo-cli* again to g
 <p align="center">
 <p><b>iOS</b></p>
 Figure 2. Hello World Application on Emulator
-<img src="/Images/hello_iossim.png" width="65%" />
+<img src="/Images/hello_iossim.png" width="45%" />
 
 
 Figure 3. Hello World Application on iPhone
-<img src="/Images/hello_iphone.png" width="65%" />
+<img src="/Images/hello_iphone.PNG" width="45%" />
 </p>
