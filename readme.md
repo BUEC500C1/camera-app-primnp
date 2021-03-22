@@ -27,8 +27,8 @@ npm run ios or npm run android
 ```
 <br />
 
-| Hello World App on iOS Simulator| Hello World App on iPhone (Expo Go) | Hello World App on Pixel 4 (Android Emulator) | 
+| Hello World App on iOS Simulator| Hello World App on iPhone via Expo Go | Hello World App on Pixel 4 (Android Emulator) | 
 |:----:|:---:|:---:|
-| <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> | <img src="/Images/hello_pixel.png" width="50%" /> |
+| <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> | <img src="/Images/hello_pixel.png" width="70%" /> |
 
 
