@@ -23,9 +23,12 @@ Figure 1. Set up expo CLI
 1. Build Hello Applications (completed; App.js)
 2. Run Hello applications on emulator and your phone. It will be great to run it on two phones if you can (iOS and Android)
 
-(Left image) Hello Wolrd Application on iOS Simulator | (Right Image) Hello Wolrd Application on iPhone
-<p float="left">
- <img src="/Images/hello_iossim.png" width="35%" />
- <img src="/Images/hello_iphone.PNG" width="35%" />
+<p align="center">
+ <b>iOS</b>
 </p>
+
+| Hello Wolrd Application on iOS Simulator| Hello Wolrd Application on iPhone | 
+|:---:|:---:|
+| <img src="/Images/hello_iossim.png" width="35%" /> | <img src="/Images/hello_iphone.PNG" width="35%" /> |
+
 
