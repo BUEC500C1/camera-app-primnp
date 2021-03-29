@@ -32,7 +32,7 @@ npm run ios or npm run android
 | <img src="/Images/hello_iossim.png" width="70%" /> | <img src="/Images/hello_iphone.PNG" width="50%" /> | <img src="/Images/hello_pixel.png" width="70%" /> |
 
 ---
-## Due 03/28/21
+## Due 03/28/21 - currenty working on it
 **Step 3:  Develop use case to display a map.  [react-native-maps](https://github.com/react-native-maps/react-native-maps)**
 
 **Step 4:  Develop use case to take a picture  [react-native-camera](https://github.com/react-native-camera/react-native-camera)**
