@@ -43,4 +43,18 @@ npm run ios or npm run android
 
 **Step 6:  Store cloud data in the cloud and display as list on the phone**
 
+---
+## Due 03/01/2021
+**Step 7: Detect Faces and blur them before you store them**
+
+---
+## Due 3/02/2021
+**Step 8: Scan barcodes and save the data per image
+
+---
+## Due 03/04/2021
+**Step 9: Store images and barcode in Firebase**
+
+
+
 
