@@ -38,23 +38,23 @@ npm run ios or npm run android
 **Step 4:  Develop use case to take a picture  [react-native-camera](https://github.com/react-native-camera/react-native-camera)**
 
 ---
-## Due 03/30/2021
+## Due 03/30/2021 - DONE
 **Step 5:  Setup your Firebase [react-native-firebase](https://github.com/invertase/react-native-firebase).  Setup authentication, database, and storage**
 
 **Step 6:  Store cloud data in the cloud and display as list on the phone**
 
 ---
-## Due 03/01/2021
+## Due 03/01/2021 - Working
 **Step 7: Detect Faces and blur them before you store them**
 
 ---
-## Due 3/02/2021
+## Due 3/02/2021 - Working
 **Step 8: Scan barcodes and save the data per image**
 
 ---
-## Due 03/04/2021
+## Due 03/04/2021 - Working
 **Step 9: Store images and barcode in Firebase**
 
 
-
+### Will finish everything by 04/05/21
 
