@@ -45,6 +45,7 @@ npm run ios or npm run android
 *Key takeaways*
 * At this point, I realized that expo would not support barcode and face detection of react-native-camera. So I decided to switch to develop with bare react native project. Set up are as follow: https://reactnative.dev/docs/environment-setup (follow the steps for React Native CLI Quickstart).
 * I decided to move forward with iOS development for react native as of now. Dependencies/library for android might be added later in the future.
+* All files for iOS mobile appliciation are stored inside 'application' folder on this repo.
 
 ### Click on the video below to view the demonstration of step 3,4,5,6.
 
