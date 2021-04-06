@@ -37,11 +37,18 @@ npm run ios or npm run android
 
 **Step 4:  Develop use case to take a picture  [react-native-camera](https://github.com/react-native-camera/react-native-camera)**
 
----
 ## Due 03/30/2021 - DONE
 **Step 5:  Setup your Firebase [react-native-firebase](https://github.com/invertase/react-native-firebase).  Setup authentication, database, and storage**
 
 **Step 6:  Store cloud data in the cloud and display as list on the phone**
+
+*Key takeaways*
+* At this point, I realized that expo would not support barcode and face detection of react-native-camera. So I decided to switch to develop with bare react native project. Set up are as follow: https://reactnative.dev/docs/environment-setup (follow the steps for React Native CLI Quickstart).
+* I decided to move forward with iOS development for react native as of now. Dependencies/library for android might be added later in the future.
+
+### Click on the video below to view the demonstration of step 3,4,5,6.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ebPmC2siB_E/0.jpg)](http://www.youtube.com/watch?v=ebPmC2siB_E "EC500 HW3")
 
 ---
 ## Due 03/01/2021 - Working
@@ -56,5 +63,5 @@ npm run ios or npm run android
 **Step 9: Store images and barcode in Firebase**
 
 
-### Will finish everything by 04/05/21
+### Will finish everything by 04/09/21 - apologize for late submission
 
