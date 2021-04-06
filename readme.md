@@ -1,7 +1,7 @@
 # camera-app-primnp
 
 
-## Due 03/24/21
+## Due 03/24/21 - DONE
 **Step 1:  Setup your REACT Native Environment**
 
 Please note:  If you have an iOS device, you need a Mac computer.  If you don’t have a Mac, please build it as an Android on the emulator.
