@@ -43,7 +43,8 @@ npm run ios or npm run android
 **Step 6:  Store cloud data in the cloud and display as list on the phone**
 
 <p align="center">
-Click on the video below to view the demonstration of step 3,4,5,6. 
+Click on the video below to view the demonstration of step 3,4,5,6.
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/ebPmC2siB_E/0.jpg)](http://www.youtube.com/watch?v=ebPmC2siB_E "EC500 HW3")
 </p>
 <br />
 
