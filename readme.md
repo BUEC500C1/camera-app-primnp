@@ -59,6 +59,8 @@ npm run ios or npm run android
 ## Due 3/02/2021 - Working
 **Step 8: Scan barcodes and save the data per image**
 
+* Scan barcodes now work
+
 ---
 ## Due 03/04/2021 - Working
 **Step 9: Store images and barcode in Firebase**
