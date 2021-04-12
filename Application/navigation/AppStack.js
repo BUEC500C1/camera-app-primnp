@@ -7,10 +7,11 @@ import HomeScreen from '../screens/HomeSc';
 import MapScreen from '../screens/MapScreen';
 import Camera from '../screens/Camera';
 import FireBaseDatabase from '../screens/FireBaseDatabase';
+import FaceDetect from '../screens/FaceDetect';
 
 
 const Stack = createStackNavigator();
-//function FeedStack ({ navigation }) => 
+//function FeedStack ({ navigation }) =>
 
 const FeedStack = ({navigation}) => (
   <Stack.Navigator>
@@ -29,6 +30,10 @@ const FeedStack = ({navigation}) => (
     <Stack.Screen
       name="Camera"
       component={Camera}
+    />
+    <Stack.Screen
+      name="Face Detect"
+      component={FaceDetect}
     />
   </Stack.Navigator>
 );

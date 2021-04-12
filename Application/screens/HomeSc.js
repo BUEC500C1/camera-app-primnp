@@ -21,9 +21,17 @@ function HomeSc({ navigation: { navigate } }) {
       </View>
       <View style={styles.textposition}>
         <Button
-          title="Take a picture"
+          title="Scan Barcode"
           onPress={() =>
               navigate('Camera')
+          }
+        />
+      </View>
+      <View style={styles.textposition}>
+        <Button
+          title="Detect Face"
+          onPress={() =>
+              navigate('Face Detect')
           }
         />
       </View>
