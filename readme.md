@@ -81,7 +81,7 @@ npm run ios or npm run android
 * Use onBarCodeRead function to scan barcode
 * User take a picture of barcode image then the text extracted from barcode and the image of the barcode are stored in firebase storage
 * Display barcode image and extracted text as a list
-* View demonstratioin of this feature on 'Video 2' (refer below) - barcode scanner features start at 1.36 minute mark
+* View demonstration of this feature on 'Video 2' (refer below) - barcode scanner features start at 1.36 minute mark
 
 
 ### Video 2
