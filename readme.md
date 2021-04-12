@@ -87,7 +87,7 @@ npm run ios or npm run android
 ### Video 2
 ### Click on the updated video below to view the demonstration of step 3,4,5,6,8,9 (missing step 7).
 
-[![IMAGE ALT TEXT](http://img.youtube.com/vi/ebPmC2siB_E/0.jpg)](http://www.youtube.com/watch?v=ebPmC2siB_E "EC500 HW3 updated")
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/xbxHcXlJgb0/0.jpg)](http://www.youtube.com/watch?v=xbxHcXlJgb0 "EC500 HW3 updated")
 
 
 ---
