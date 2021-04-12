@@ -56,13 +56,13 @@ npm run ios or npm run android
 **Step 7: Detect Faces and blur them before you store them**
 
 ---
-## Due 3/02/2021 - Working
+## Due 3/02/2021 - DONE
 **Step 8: Scan barcodes and save the data per image**
 
 * Scan barcodes now work
 
 ---
-## Due 03/04/2021 - Working
+## Due 03/04/2021 - Partially done, only storing blurred face image left (depends on step 7)
 **Step 9: Store images and barcode in Firebase**
 
 
