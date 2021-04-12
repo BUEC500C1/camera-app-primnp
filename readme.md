@@ -54,7 +54,6 @@ npm run ios or npm run android
 ---
 ## Due 03/01/2021 - Working
 **Step 7: Detect Faces and blur them before you store them**
-* Detect facee now works
 
 ---
 ## Due 3/02/2021 - Working
