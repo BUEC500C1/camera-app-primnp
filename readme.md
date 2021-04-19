@@ -75,7 +75,7 @@ npm run ios or npm run android
 
 * I found out that the @react-native-firebase/ml-vision for face detection using react-native-camera is deprecated. Therefore, my bare react native project could not handle face detection.
 * I decided to create another **expo** react native project to demonstrate solely the face detection and blurring the face detected feature.
-* The code for this is inside ... folder
+* The code for this is inside [Expo_Facedtector](https://github.com/BUEC500C1/news-analyzer-primnp/tree/main/Secure_File_Uploader) folder
 * The expo SDK I used for face detection is FaceDetector (https://docs.expo.io/versions/latest/sdk/facedetector/) and the expo SDK I used for blurring detected face is BlurView (https://docs.expo.io/versions/v41.0.0/sdk/blur-view/). These two SDKs are integrated to Expo Camera SDK (https://docs.expo.io/versions/latest/sdk/camera).
 * In addition, since takePictureAsync() from Camera SDK only take a snapshot of the image, and does not include blur filter super-impose on the camera view, I used captureRef (https://docs.expo.io/versions/latest/sdk/captureRef/) to screenshot the camera view with blurred filter area. However, captureRef creates an issue as it screenshots only the blurred filter area and does not include the actual face image.
 * Images saved using takePictureAsync() and captureRef are stored inside iPhone photo library.
