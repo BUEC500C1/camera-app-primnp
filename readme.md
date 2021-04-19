@@ -69,10 +69,22 @@ npm run ios or npm run android
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/ebPmC2siB_E/0.jpg)](http://www.youtube.com/watch?v=ebPmC2siB_E "EC500 HW3")
 
 ---
-## Due 03/01/2021 - Working
+## Due 03/01/2021 - DONE
 **Step 7: Detect Faces and blur them before you store them**
 
-* Problem with installing FaceDetectionMLKit -- Landmark feature cannot be found
+* I found out that the @react-native-firebase/ml-vision for face detection using react-native-camera is deprecated. Therefore, my bare react native project could not handle face detection.
+* I decided to create another **expo** react native project to demonstrate solely the face detection and blurring the face detected feature.
+* The code for this is inside ... folder
+* The expo SDK I used for face detection is FaceDetector (https://docs.expo.io/versions/latest/sdk/facedetector/) and the expo SDK I used for blurring detected face is BlurView (https://docs.expo.io/versions/v41.0.0/sdk/blur-view/). These two SDKs are integrated to Expo Camera SDK (https://docs.expo.io/versions/latest/sdk/camera).
+* In addition, since takePictureAsync() from Camera SDK only take a snapshot of the image, and does not include blur filter super-impose on the camera view, I used captureRef (https://docs.expo.io/versions/latest/sdk/captureRef/) to screenshot the camera view with blurred filter area. However, captureRef creates an issue as it screenshots only the blurred filter area and does not include the actual face image.
+* Images saved using takePictureAsync() and captureRef are stored inside iPhone photo library.
+* In conclusion, work I did in step 7 does not fully demonstrate saving picture of blurred face. Instead, it demonstrates saving an image and blurred area of the face separately into two image files. Future fix could be to screenshot the image with filter super-impose on top of the image, not screenshot directly from the camera.
+* View demonstration of this feature on 'Video 2' (refer below) 
+
+### Video 2
+### Click on the video below to view the demonstration of step 7.
+
+[![IMAGE ALT TEXT](http://img.youtube.com/vi/wyJC9-axyqk/0.jpg)](http://www.youtube.com/watch?v=wyJC9-axyqk "EC500 HW3 Face Detect")
 
 ---
 ## Due 3/02/2021 - DONE
@@ -81,22 +93,22 @@ npm run ios or npm run android
 * Use onBarCodeRead function to scan barcode
 * User take a picture of barcode image then the text extracted from barcode and the image of the barcode are stored in firebase storage
 * Display barcode image and extracted text as a list
-* View demonstration of this feature on 'Video 2' (refer below) - barcode scanner features start at 1.36 minute mark
+* View demonstration of this feature on 'Video 3' (refer below) - barcode scanner features start at 1.36 minute mark
 
 
-### Video 2
-### Click on the updated video below to view the demonstration of step 3,4,5,6,8,9 (missing step 7).
+### Video 3
+### Click on the updated video below to view the demonstration of step 3,4,5,6,8,9 (for step 7, view Video 2).
 
 [![IMAGE ALT TEXT](http://img.youtube.com/vi/xbxHcXlJgb0/0.jpg)](http://www.youtube.com/watch?v=xbxHcXlJgb0 "EC500 HW3 updated")
 
 
 ---
-## Due 03/04/2021 - Partially done, only storing blurred face image left (depends on step 7)
+## Due 03/04/2021 - DONE
 **Step 9: Store images and barcode in Firebase**
 
 * Store barcode image and extracted text in firebase
 * If user take a picture of non-barcode image, text extracted field will be 'N/A' 
-* View demonstration of this feature on 'Video 2' (refer above) - barcode scanner features and data storage start at 1.36 minute mark
+* View demonstration of this feature on 'Video 3' (refer above) - barcode scanner features and data storage start at 1.36 minute mark
 
 
 
