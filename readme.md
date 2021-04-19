@@ -1,5 +1,6 @@
 # camera-app-primnp
 
+## Please refer to Video 1, Video 2, and Video 3 embedded below to view demonstration of completed work over a period of time. 
 
 ## Due 03/24/21 - DONE
 **Step 1:  Setup your REACT Native Environment**
